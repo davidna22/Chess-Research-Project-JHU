@@ -1,5 +1,4 @@
 Chess Model
-<a href="/Brief Overview.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
+<object data="/Brief Overview.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-https://github.com/davidna22/ChessModel/blob/main/Brief%20Overview.pdf
